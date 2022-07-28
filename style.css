@@ -1,0 +1,15 @@
+.manual-position {
+  position: absolute;
+
+  bottom: 30%;
+}
+.manual-overlay {
+  background-color: rgba(black, 0.4);
+  filter: brightness(0.4);
+}
+
+@media (min-width: 1025px) {
+  .h-custom {
+    height: 100vh !important;
+  }
+}
