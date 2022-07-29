@@ -7,7 +7,15 @@
   background-color: rgba(black, 0.4);
   filter: brightness(0.4);
 }
-
+.slider-clr {
+  background-color: rgb(4, 121, 199);
+}
+.manual-clr {
+  background-color: rgba(147, 201, 201, 0.466);
+}
+.btn-manual-clr {
+  background-color: rgb(44, 205, 245);
+}
 @media (min-width: 1025px) {
   .h-custom {
     height: 100vh !important;
